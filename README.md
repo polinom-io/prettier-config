@@ -1,0 +1,1 @@
+# Polinom.io Prettier Config
