@@ -6,6 +6,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "mario@polinom.io",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polinom-io/prettier-config.git"
+  },
   "license": "MIT",
   "description": "Polinom.io recommended prettier config",
   "keywords": [
