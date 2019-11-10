@@ -1,6 +1,6 @@
 {
   "name": "@polinom.io/prettier-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "index.json",
   "scripts": {
     "test": "npm test"
